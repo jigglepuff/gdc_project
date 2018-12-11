@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ChiSqSelectorModel","timestamp":1543060009132,"sparkVersion":"2.3.1","uid":"ChiSqSelector_422a8703edfd4402aafb","paramMap":{"labelCol":"disease_type_idx","fwe":0.05,"fpr":0.05,"numTopFeatures":5000,"selectorType":"numTopFeatures","percentile":0.1,"fdr":0.05,"outputCol":"percentFeatures","featuresCol":"scaledFeatures"}}

@@ -1,0 +1,9 @@
+[
+  {
+    "Classification": "livy-conf",
+    "Properties": {
+      "livy.server.session.timeout": "10000000",
+      "livy.server.session.timeout-check" : "false"
+    }
+  }
+]
